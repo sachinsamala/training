@@ -13,3 +13,38 @@ how to use git: 1) install git-bash
 2) either install vscode or write using cmd or by using a git-bash
 3)to check if git is installed open gitbash and use command 'git --version'.
 
+'git remote add origin' for establishing communication b/w cloud and local repo
+
+https://github.com/sachinsamala/training.git
+
+commands to add in local repo to cloud repo 
+1) git init
+2) git config --global user.name
+3)git config --global user.mail
+for connecting local repo to cloud repo command 'git remote add origin (origin path)'
+for pulling files from any branch ex:main command is 'git pull origin main'
+for converting untracked files to tracked files use command 'git add .' and next 'git commit -m "new-file"'
+for pushing local rep files to cloud repo command: 
+
+
+step 1: create a git-hub acc
+step 2: created repo in a git-hub
+step 3: open vs code and open terminal in vs code
+step 4: init git in a local repo "git init"
+step 5: configure user and email to local repo
+
+	git config --global user.name ""
+	git config --global user.email ""
+
+step 6: add remote/cloud repo to local repo 
+	git remote add origin http-path
+
+step 7: git pull origin branch name(main)
+step 8:convert untracked file to tracked files
+	git add.
+	git commit -m "message"
+step 9:check status
+	git status
+step 10: push to cloud repo
+	git push -u origin master(branch-main)
+

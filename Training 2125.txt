@@ -1,0 +1,15 @@
+Training 2/1/25
+  
+html is used for designing the structre of webpage
+css is used for designing the additional features or design of the structure.
+these html and css are written in Vs code 
+this are deployed in git and git hub mainly other are firebase,netify, bit bucket ,
+GitLab.
+
+what is git and GitHub: git is the one who tracks the code and GitHub stores and manage the code.
+git is version control and git hub is a cloud storage.git is simple to learn.
+
+how to use git: 1) install git-bash
+2) either install vscode or write using cmd or by using a git-bash
+3)to check if git is installed open gitbash and use command 'git --version'.
+

@@ -48,3 +48,36 @@ step 9:check status
 step 10: push to cloud repo
 	git push -u origin master(branch-main)
 
+training 6/1/25
+
+- Var is the 
+- header part is the unvisible to the end user 
+- body part is visible to the end user
+
+What is Datatype?
+-  datatypes is used to define what kind of data used in the variable.
+- typeof() method is used for knowing the type of datatype
+
+types: 1)primitive datatypes
+- it can store single values.
+- the values are immutable
+they are: String , booloean , number , undefined , null , bigint , symbol.
+2) non- primitive datatypes
+- it can store multiple values.
+- the values are mutable.
+they are: class , objects , functions , arrays , math , date , json.
+
+String : it store a sequence of characters stored within a double quotes / single quotes/ backticks(
+ex: var username ="mahesh";
+    let title  = 'super star'
+	const 
+
+Boolean : true/false
+
+number : integers , float , decimal , exponential , etc...
+  -2^53-1 to +2^53-1 values.
+
+Comments in js:
+1.single line commennt(//)
+2.multi-line comment(/**/)
+

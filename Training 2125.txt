@@ -131,9 +131,17 @@ looping statments:
 - syntax - for(initialization ; condition ; updation){statment}
 2)while loop 
 - syntax - while(condition){statment}
+- minimum iteration count is "0"
 3)do-while loop
 - syntax: do{statment}
 			while(condition)
+- minimum iteration count is "1"
 
-entry controlled loops: for loop , while loop
-exit controlled loops : do-while loops. 
+entry controlled loops: for loop , while loop(condition will be checked first then executed)
+exit controlled loops : do-while loops. (first execution happens after that checks condition)
+
+functions:-
+
+- functions is a building block of javascripts.
+-  function is a block of code which is used to execute speciific task.
+- 

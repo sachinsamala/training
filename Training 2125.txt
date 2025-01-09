@@ -144,4 +144,22 @@ functions:-
 
 - functions is a building block of javascripts.
 -  function is a block of code which is used to execute speciific task.
-- 
+- function is a non- primitive data type
+- functions can be reusable
+
+syntax: function function_name(optional parameter){ // functions del 
+
+types of functions:
+1. named functions- function is having a name and invoked(calling ) with 
+2. anonymus functions - a function which doesnot have a name for it. and it cannot be executed by itself.
+3. function expressions - an anonymus function body is assigned 
+4.IIFE(immediate invoke function expression) - it can be called only once 
+5.arrow functions - it is introduced in es6
+- it reduces the normal function of the function, it is similar to anonymus function.
+6.higher order  functions
+7.callbackfunctions
+
+Note - current version of javascript is es14
+es- ecma script
+ECMA - european computer manifacturing association.
+- es6 feature is stable.

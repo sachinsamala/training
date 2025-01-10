@@ -59,3 +59,32 @@
 // let y = (a,b) => a+b;
 // console.log(y(100,200));
 
+//higherorder function
+// function hof(a){
+//     return a;
+// }
+// let x = hof(function(){return "callback function"});
+// console.log(x);
+
+// let users = ["manoj" , "Asif" , "varshith", "ashwitha" , "sreenu"];
+// console.log(users);
+// users.map((user)=>{
+//     console.log(user);
+// })
+
+// closure
+
+var a = 10;
+let b = 10;
+function x(){
+    var user = "vasanth";
+    let company = "google";
+    const sal = 123456;
+    console.log(user);
+    console.log(company);
+    console.log(sal);
+    console.log(a,b);
+}    
+x();
+
+

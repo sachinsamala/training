@@ -154,12 +154,30 @@ types of functions:
 2. anonymus functions - a function which doesnot have a name for it. and it cannot be executed by itself.
 3. function expressions - an anonymus function body is assigned 
 4.IIFE(immediate invoke function expression) - it can be called only once 
+once the function is created immediately it will be ccalled and executed
 5.arrow functions - it is introduced in es6
 - it reduces the normal function of the function, it is similar to anonymus function.
-6.higher order  functions
+6.higher order  functions 
+- it is a function which accepts another function as an argument 
 7.callbackfunctions
+- is a function which is passed as a argument to another function 
 
 Note - current version of javascript is es14
 es- ecma script
 ECMA - european computer manifacturing association.
 - es6 feature is stable.
+
+return - to return expression with 
+- it is used to break the code.
+if any function should be executed it should be called first.
+
+-closure - closure is a memory created when functions are bundled together.
+or nested each other by giving accesebility to the inner mosy function to access the variables of outer most function.
+
+- scopes are 4 types 
+1)global
+2)script
+3)local
+4)block
+
+
